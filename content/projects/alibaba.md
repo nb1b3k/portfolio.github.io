@@ -1,5 +1,5 @@
 ---
-date: '2021-09'
+date: '2021'
 title: 'Alibaba Hall-Of-Fame'
 external: 'https://security.alibaba.com/top.htm?tab=1'
 tech:
@@ -10,4 +10,4 @@ company: 'Alibaba'
 showInProjects: true
 ---
 
-Found security vulnearbilities like Stored XSS, OAuth Misconfigurations, and IDOR in [Alibaba](https://www.alibaba.com/).
+Found multiple security vulnerabilities like Stored XSS, OAuth Misconfigurations, and IDOR in [Alibaba](https://www.alibaba.com/).
