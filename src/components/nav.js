@@ -9,7 +9,7 @@ import { useScrollDirection, usePrefersReducedMotion } from '@hooks';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
 
-const StyledHeader = styled.header`
+const StyledHeader = styled.header `
   ${({ theme }) => theme.mixins.flexBetween};
   position: fixed;
   top: 0;
