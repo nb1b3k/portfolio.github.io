@@ -1,6 +1,6 @@
 ---
 date: '2021'
-title: 'Appreciation from Bytecare Technology'
+title: 'Bytecare Technology'
 github: ''
 external: 'https://drive.google.com/file/d/1cyKp-X4RQHAIpXlBB_SRqa5YErmBxHdt/view?usp=sharing'
 tech:

@@ -58,14 +58,13 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi! I'm</h1>;
+  const one = <h1>Hi! I’m</h1>;
   const two = <h2 className="big-heading">Bibek Neupane.</h2>;
   const three = <h3 className="big-heading">I try to secure the internet.</h3>;
   const four = (
     <>
       <p>
-        I’m a High-School graduate with a keen enthusiasm for Offensive Security. I love doing
-        Web-Application Penetration Testing and Bug Bounty. Check out my profile at{' '}
+      I’m a high school graduate with a keen enthusiasm for Offensive Security, particularly web application security. I love doing Web-Application VAPT and Bug Bounty. Check out my profile at{' '}
         <a href="https://yeswehack.com/hunters/nb1b3k" target="_blank" rel="noreferrer">
           YesWeHack&nbsp;
         </a>
@@ -78,7 +77,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a className="email-link" href="resume.pdf" target="_blank" rel="noreferrer">
+    <a className="email-link" href="https://drive.google.com/file/d/1nDlwlMicX6ZYxqL_jSeRlkOCWou2Hkey/view?usp=sharing" target="_blank" rel="noreferrer">
       Check out my Resume!
     </a>
   );

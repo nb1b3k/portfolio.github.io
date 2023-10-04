@@ -1,6 +1,6 @@
 ---
 date: '2021'
-title: 'Reported Multiple Critical Vulnerabilities to SastoDeal'
+title: 'SastoDeal'
 github: ''
 external: 'https://sastodeal.com/'
 tech:

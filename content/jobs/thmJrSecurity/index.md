@@ -3,7 +3,7 @@ date: '2022-05-10'
 title: 'Jr Penetration Tester Learning Path'
 company: 'Jr Penetration Tester'
 location: 'N/A'
-range: '2022-09-10'
+range: 'September 2022'
 url: 'https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SXMZGZ70DU.png'
 ---
 

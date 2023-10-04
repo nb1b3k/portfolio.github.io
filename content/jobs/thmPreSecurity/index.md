@@ -3,7 +3,7 @@ date: '2022-01-29'
 title: 'Pre Security Learning Path'
 company: 'Pre Security'
 location: 'N/A'
-range: '2022-06-29'
+range: 'June 2022'
 url: 'https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-E0GSSFA0RT.png'
 ---
 

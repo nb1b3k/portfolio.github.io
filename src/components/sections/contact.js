@@ -60,9 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm currently looking for <a href="/#certs">internship opportunities</a> that suits my
-        skills. Besides that, if you want to talk/ask anything about Cybersecurity, Penetration
-        Testing or Bug Hunting, my inbox is always open!
+      I'm not actively seeking new opportunities at the moment, but if you have any questions or would like to discuss topics related to Cybersecurity, Penetration Testing, or Bug Hunting, feel free to reach out to me anytime. My inbox is always open!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

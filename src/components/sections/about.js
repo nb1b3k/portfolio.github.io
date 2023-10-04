@@ -145,13 +145,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              An aspiring Hacker, a Web Application Pentester, a part-time Bug Bounty Hunter, and a
-              lifelong learner with a keen enthusiasm for Offensive Security; Hi! I'm Bibek Neupane.
+            Hi! I'm Bibek Neupane; an aspiring Hacker, a Web Application Pentester, a part-time Bug Bounty Hunter, and a
+              lifelong learner with a keen enthusiasm for Offensive Security.
             </p>
             <p>
               Modifying coins in android games was fun but I've never imagined the path that single
               moment would lead me to. Now I know it's more than just fun to hack into things that
               lives on the internet.
+            </p>
+            <p>
+            Fast-forward to today, and I’ve had the privilege of volunteering at{' '}
+            <a href="https://gajabaar.io/" target="_blank" rel="noreferrer">
+              Gajabaar: an InfoSecurity Mentorship Program
+              </a> as a&nbsp; 
+              <a href="#about"><i>Teaching</i></a> <a href="#about"><i>Assistant</i></a>. Currently, I'm working as a <a href="#about"><i>Security Analyst</i></a> at{' '}
+        <a href="https://cynicaltechnology.com/" target="_blank" rel="noreferrer">
+          Cynical Technology
+          </a>,&nbsp;where I focus on Web Application Security & VAPT.
             </p>
             <p>Here are my few skills:</p>
           </div>
